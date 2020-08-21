@@ -1,6 +1,3 @@
 Some random text 
 
 This is based off the orginal commit 
-
-
-LOCAL 1
