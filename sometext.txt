@@ -1,3 +1,5 @@
 Some random text 
 
 This is based off the orginal commit 
+
+MASTER EDit
