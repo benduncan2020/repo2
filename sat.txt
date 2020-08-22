@@ -1,9 +1,0 @@
-method1()
-{
-  method1(); // comment added bob
-}
-
-method2()
-{
-  method2(); // add a comment fred
-}
