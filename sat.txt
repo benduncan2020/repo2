@@ -1,13 +1,2 @@
-git session1 , and another by
-session 1
-added by git session 2
-
-this a long edit by session 1
-
-created by session2
-
-
-THIS IS THE END
-
-what to do next ?
+Lets start afresh
 
