@@ -3,3 +3,5 @@ session 1
 added by git session 2
 
 this a long edit by session 1
+
+created by session2
