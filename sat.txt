@@ -1,3 +1,9 @@
-Lets start afresh
+method1()
+{
+  method1();
+}
 
-think of something
+method2()
+{
+  method2();
+}
